@@ -10,7 +10,7 @@ I'm Vaibhav, a passionate software developer, with a love for building scalable 
 - 💬 Ask me about Web Development, Spring Boot, APIs...
 - 📫 How to reach me: vaibhav.gond@Lockated
 - 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
-- 📄 [More about me](https://drive.google.com/file/d/1rWcYPdV8XLjtsaZeXQDeOVs6qA4wICgh/view?usp=sharing)
+
 
   
 ## Get in Touch
@@ -42,13 +42,4 @@ I'm Vaibhav, a passionate software developer, with a love for building scalable 
 
 
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KrushnaKharat&show_icons=true" alt="Krushna Kharat" 
-    height="210px" 
-    />
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrushnaKharat&show_icons=true&locale=en&layout=compact" alt="Krushna Kharat" height="210px"
-    />
-</p>
 
