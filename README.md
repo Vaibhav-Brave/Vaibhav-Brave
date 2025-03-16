@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-# Hi there, I'm Krushna! 👋
+# Hi there, I'm Vaibhav! 👋
 
-I'm Krushna, a passionate software developer, with a love for building scalable applications, exploring new technologies. I thrive on turning ideas into reality through code and enjoy working on projects that make a meaningful impact.
+I'm Vaibhav, a passionate software developer, with a love for building scalable applications, exploring new technologies. I thrive on turning ideas into reality through code and enjoy working on projects that make a meaningful impact.
 
 ## About Me
 - 💻 I'm a Software Developer.
 - 🌱 I’m currently learning Generative AI.
 - 💬 Ask me about Web Development, Spring Boot, APIs...
-- 📫 How to reach me: krishaakharat@gmail.com
+- 📫 How to reach me: vaibhav.gond@Lockated
 - 🚀 Goals: I’m passionate about contributing to open-source, building scalable systems.
 - 📄 [More about me](https://drive.google.com/file/d/1rWcYPdV8XLjtsaZeXQDeOVs6qA4wICgh/view?usp=sharing)
 
   
 ## Get in Touch
-<p align="left">
-<a href="https://www.linkedin.com/in/shrikrushna-kharat-248818212/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Krushna Kharat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i.am_krishnaa_?utm_source=qr&igsh=c3lrajZlZHl2aGRo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan_naruto07" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vaibhav_gond_official ?utm_source=qr&igsh=c3lrajZlZHl2aGRo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan_naruto07" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
